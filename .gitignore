@@ -4,7 +4,7 @@ Cargo.lock
 testfile.zip
 *.pyc
 venv
-*.rs.bk
+*.rs.bkb
 .idea
 rusoto.iml
 .vscode
